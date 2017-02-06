@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.braintreepayments.gateway:braintree-java:2.68.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.braintreepayments.gateway/braintree-java/bundles/braintree-java-2.68.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.braintreepayments.gateway/braintree-java/srcs/braintree-java-2.68.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
